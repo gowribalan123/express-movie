@@ -1,0 +1,24 @@
+{
+  
+  "name": "express-movie",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev":"nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.21.1",
+    
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
